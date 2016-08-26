@@ -2351,6 +2351,10 @@
     <string name="usb_midi_title">MIDI</string>
     <!-- Storage setting.  Summary for MIDI checkbox [CHAR LIMIT=NONE]-->
     <string name="usb_midi_summary">Lets MIDI enabled applications work over USB with MIDI software on your computer.</string>
+    <!-- Storage setting.  Title for MirrorLink checkbox [CHAR LIMIT=30]-->
+    <string name="usb_ncm_title">MirrorLink</string>
+    <!-- Storage setting.  Summary for MirrorLink checkbox [CHAR LIMIT=NONE]-->
+    <string name="usb_ncm_summary">Run MirrorLink applications on you Car screen.</string>
 
     <!-- Section header above list of other users storage [CHAR LIMIT=32] -->
     <string name="storage_other_users">Other users</string>
